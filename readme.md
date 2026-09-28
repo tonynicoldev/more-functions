@@ -12,6 +12,9 @@ This demonstrates a higher order function - i.e., a function where a function is
 ## callback2
 This demo illustrates an asynchronous callback being passed to a higher-order function as an argument. Unlike the previous example, this callback is not called until an asynchronous activity has completed
 
+## functions
+Illustrates the difference in scope between named functions which are hoisted, and anonymous functions assigned to a constant
+
 ## returnValue
 This demo shows an object being returned to illustrate how to return more than one value from the function
 
